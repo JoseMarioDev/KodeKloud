@@ -1,0 +1,40 @@
+## Introduction
+
+- who this course is for
+- curriculum
+
+### curriculum
+
+Linux basics  
+setup lab env  
+git basics  
+application basics  
+web servers  
+databases  
+multi-tier apps  
+json/yaml  
+interfaces  
+git repos  
+clone source code  
+make/commit changes
+
+#
+
+## Linux Basics
+
+### basic commands
+
+`echo` prints to screen. used when you want to print env vars  
+`ls` lists files and folders  
+`cd` change directories  
+`pwd` present working directory  
+`mkdir` make directory  
+can run multiple commands in one line by separating them with a `;`  
+`mkdir -p` create directory hierarchy  
+`rm -r` remove directory and contents  
+`cp -r` copies content from one directory to another. specify directories after `-r`  
+` touch new_file` creates new file  
+`cat > stuff` write to file  
+` cat new_file` view contents of file  
+` mv old_location new_location` move file, same as cut/paste
+` rm file_name` to delete file
