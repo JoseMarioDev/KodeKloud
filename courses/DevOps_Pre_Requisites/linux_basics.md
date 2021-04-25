@@ -1,28 +1,6 @@
-## Introduction
-
-- who this course is for
-- curriculum
-
-### curriculum
-
-Linux basics  
-setup lab env  
-git basics  
-application basics  
-web servers  
-databases  
-multi-tier apps  
-json/yaml  
-interfaces  
-git repos  
-clone source code  
-make/commit changes
-
-#
-
 ## Linux Basics
 
-### basic commands
+### 1. Basic Commands
 
 `echo` prints to screen. used when you want to print env vars  
 `ls` lists files and folders  
@@ -36,5 +14,5 @@ can run multiple commands in one line by separating them with a `;`
 ` touch new_file` creates new file  
 `cat > stuff` write to file  
 ` cat new_file` view contents of file  
-` mv old_location new_location` move file, same as cut/paste
+` mv old_location new_location` move file, same as cut/paste  
 ` rm file_name` to delete file
