@@ -16,3 +16,26 @@ can run multiple commands in one line by separating them with a `;`
 ` cat new_file` view contents of file  
 ` mv old_location new_location` move file, same as cut/paste  
 ` rm file_name` to delete file
+
+### 2. VI Editor
+
+editor used in Linux to modify files
+
+- `vi file name` to open file in VI
+
+2 modes
+
+- command mode, default
+  move around using `arrow keys or KHJL`  
+   `x` to delete  
+   `dd` to delete line  
+   `yy` copy  
+   `p` paste  
+   `ctrl + u, ctrl +d ` to scroll up/down  
+   `:` to save changes  
+   ` :w` to save `:w filename` as well  
+   `:q` to quit  
+   `:wq` to save and quit  
+  ` /of` to find stuff ex: "of"
+  `n` to move cursor to all occurances of found stuff
+- insert mode `i` to switch to `esc` to go back to command mode
